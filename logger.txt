@@ -1,0 +1,7 @@
+2020-10-02 21:52:08.6115 DEBUG Debug Successful : Sum()
+2020-10-02 21:52:08.7647 INFO Sum method passed, Result7
+2020-10-02 21:53:01.6447 DEBUG Debug Successful : Sum()
+2020-10-02 21:53:01.6713 ERROR Expecting null values
+2020-10-02 21:53:01.6713 WARN a & b shouldnot be equal to 0
+2020-10-02 21:53:01.6713 DEBUG Debug Successful : Sum()
+2020-10-02 21:53:01.6713 INFO Sum method passed, Result0
